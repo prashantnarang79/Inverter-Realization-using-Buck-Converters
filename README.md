@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project focuses on the design and hardware implementation of **single-phase and three-phase DC-AC inverters** using **differential connection of buck converters**, as described in **Section 6.1.4 — Differential Connection of the Load** from *Fundamentals of Power Electronics* by **Robert W. Erickson**.
+This project focuses on the design and hardware implementation of **single-phase and three-phase DC-AC inverters** using **differential connection of buck converters**, as described in *Fundamentals of Power Electronics* by **Robert W. Erickson**.
 
 Initially, a **single-phase inverter** was realized using two buck converters connected in differential mode. This approach was extended to a **three-phase inverter** by configuring **three buck converters**, each generating a phase voltage with respect to a virtual neutral point formed by the average of the three outputs.
 
