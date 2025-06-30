@@ -1,4 +1,4 @@
-# Buck Converter-Based Single-Phase and Three-Phase Inverter Using Differential Load Connections
+# Differential Connections of Buck Converters: Inverter Realization
 
 ## Project Overview
 
